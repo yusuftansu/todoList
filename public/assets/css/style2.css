@@ -1,0 +1,29 @@
+
+
+.wrapper {
+    margin-top: 100px;
+    margin-left: 400px;
+}
+
+.head {
+    height: 5px;
+    text-align: right;
+    text-decoration: dashed;
+    font-size: 15px;
+}
+
+.oval {
+    font-family: Raleway-SemiBold;
+    font-size: 13px;
+    color: rgba(108, 88, 179, 0.75);
+    letter-spacing: 1px;
+    line-height: 15px;
+    border: 2px solid rgba(108, 89, 179, 0.75);
+    border-radius: 80px;
+    background: transparent;
+    transition: all 0.3s ease 0s;
+}
+
+.card{
+    border: tomato;
+}
